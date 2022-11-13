@@ -1,4 +1,5 @@
 # Cadastro_de_funcionarios
+Site do projeto: https://gabriellimaferreira.github.io/Cadastro_de_funcionarios/
 Tela para criação, edição e exclusão de funcionários.
 
 Este projeto foi feito para aprofundar meus conhecimentos em DOM e CRUD.
